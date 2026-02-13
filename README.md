@@ -18,5 +18,5 @@ Visualizations Included:
 2. Profit by Category
 3. Profit by Region
 4. Customer Segment Filter
-5. 
+
 Outcome:An interactive dashboard was created to highlight key sales and profit trends, helping identify high-performing regions and categories for better business decision-making.
